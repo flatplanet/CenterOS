@@ -1,6 +1,6 @@
 # CenterOS
 
-<br><br>
+<br>
 <p align="center">
   <img src="images/centeros-logo-full.png" alt="CenterOS logo" width="520">
 </p>
