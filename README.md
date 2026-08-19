@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1200&color=033660&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Made+Easy;AI+To+Automate+Your+Business%2C+Life%2C+And+Everything+Else...;Lightweight, Easy To Understand and Use" alt="Artificial Intelligence Made Easy">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1200&color=033660&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Made+Easy;AI+To+Automate+Your+Business%2C+Life%2C+And+Everything+Else...;Lightweight%2C+Easy+To+Understand+and+Use" alt="Artificial Intelligence Made Easy">
 </p>
 
 <p align="center">
