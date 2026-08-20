@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Central home for all scaffolding templates used to bootstrap new components in [OS_NAME]. Using templates keeps every workflow, wiki, and skill structurally consistent so future sessions can navigate any directory without surprises.
+Central home for all scaffolding templates used to bootstrap new components in CenterOS. Using templates keeps every workflow, wiki, and skill structurally consistent so future sessions can navigate any directory without surprises.
 
 ## Contents
 

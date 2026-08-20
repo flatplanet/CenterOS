@@ -1,4 +1,4 @@
-# [OS_NAME] AI Operating System Instructions
+# CenterOS AI Operating System Instructions
 
 > Fresh harness session? If this repo has not been initialized yet, read `STARTUP.md` first. If it has already been initialized, read `BOOTSTRAP.md` first.
 
@@ -19,8 +19,8 @@ Before finishing any operation involving either file, compare them and confirm t
 This repo starts as the public CenterOS template. After `STARTUP.md` runs once, it becomes a personalized AI operating system.
 
 - Use `CenterOS` when referring to the public template/framework.
-- Use `[OS_NAME]` when referring to the user's personalized operating system.
-- Use `[AI_NAME]`, `[AI_NICKNAME]`, `[PRINCIPAL]`, and `[PRINCIPAL_NICKNAME]` for user-specific identity values until startup replaces them.
+- Use `CenterOS` when referring to the user's personalized operating system.
+- Use `[AI_NAME]`, `[PRINCIPAL]`, and `[PRINCIPAL_NICKNAME]` for user-specific identity values until startup replaces them.
 
 ## Directory Structure
 
@@ -152,7 +152,7 @@ When working in this repo:
 
 ## SYSTEM_INDEX.md - System Index
 
-The root `SYSTEM_INDEX.md` is the living index of [OS_NAME]. It is [PRINCIPAL]'s at-a-glance view of what this system does.
+The root `SYSTEM_INDEX.md` is the living index of CenterOS. It is [PRINCIPAL]'s at-a-glance view of what this system does.
 
 [AI_NAME] must update `SYSTEM_INDEX.md` whenever:
 
@@ -171,7 +171,7 @@ When creating skills, apps, workflows, wikis, or code anywhere in this project, 
 
 ## The 90-10 Protocol
 
-When building anything in [OS_NAME], especially workflows, default to the 90-10 Protocol: aim to do about 90 percent of deterministic work programmatically and reserve AI judgment for the 10 percent that genuinely needs it.
+When building anything in CenterOS, especially workflows, default to the 90-10 Protocol: aim to do about 90 percent of deterministic work programmatically and reserve AI judgment for the 10 percent that genuinely needs it.
 
 Code handles:
 
@@ -198,7 +198,7 @@ Storage hierarchy:
 ### Scope
 
 - Primary target: workflows. When scoping a new workflow, the first question is "what part of this can a script do?"
-- Also applies to skills, apps, wikis, data handling, and anything else built inside [OS_NAME].
+- Also applies to skills, apps, wikis, data handling, and anything else built inside CenterOS.
 - If possible: do not force 90-10 onto inherently AI-heavy tasks such as pure writing, synthesis, strategy, or judgment. Use it as the default mindset, not a mandate.
 
 Use this protocol as the default mindset, not as a rigid rule for inherently AI-heavy work.

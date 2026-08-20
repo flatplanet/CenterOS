@@ -39,7 +39,7 @@ List everything a fresh machine needs to run this workflow. Explicitly say "None
 - **System binaries on PATH**: for example `ffmpeg`, `ffprobe`, `git`, or "None".
 - **API keys / env vars**: name, purpose, source URL, approximate cost, or "None".
 - **External accounts / services**: services requiring signup, or "None".
-- **Internal ([OS_NAME])**: other workflows, wikis, skills, templates, or MCPs this relies on. List each with relative path and a short note, or "None".
+- **Internal (CenterOS)**: other workflows, wikis, skills, templates, or MCPs this relies on. List each with relative path and a short note, or "None".
 
 ## Known Issues / Gotchas
 

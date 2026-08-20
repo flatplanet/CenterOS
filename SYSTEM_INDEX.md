@@ -1,12 +1,12 @@
 # CenterOS Template - System Index
 
-This repo is a reusable starter template for building a personalized AI operating system. After cloning, run `STARTUP.md` once to turn the generic template into [OS_NAME].
+This repo is a reusable starter template for building a personalized AI operating system. After cloning, run `STARTUP.md` once to turn the generic template into CenterOS.
 
 Every workflow, wiki, or major component gets a short entry here so [PRINCIPAL] can review the system at a glance.
 
 **Maintained by:** [AI_NAME]
 **Framework:** CenterOS
-**Instance name:** [OS_NAME]
+**Instance name:** CenterOS
 
 ---
 
@@ -75,7 +75,7 @@ Public visual assets for the CenterOS template, including the initial SVG logo a
 
 ### STARTUP.md
 
-One-time first-run setup instructions for cloning the CenterOS template and personalizing it into [OS_NAME].
+One-time first-run setup instructions for cloning the CenterOS template and personalizing it.
 
 **Path:** `STARTUP.md`
 
@@ -111,7 +111,7 @@ Concise profile for [PRINCIPAL]: identity, work/life context, patterns, and coll
 
 ### memory/
 
-Durable, cross-session memory for [OS_NAME].
+Durable, cross-session memory for CenterOS.
 
 **Path:** `memory/`
 

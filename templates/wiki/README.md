@@ -1,6 +1,6 @@
 # Wiki Template
 
-Scaffolding for a new wiki in [OS_NAME]. Used by the `create-wiki` workflow.
+Scaffolding for a new wiki in CenterOS. Used by the `create-wiki` workflow.
 
 ## Files In This Template
 
@@ -24,6 +24,6 @@ wikis/<wiki-name>/
     index.md          <- empty table of contents
 ```
 
-As of 2026-04-15, [OS_NAME] uses a single `LOG.md` per wiki at the wiki root, not a separate `wiki/log.md`. Both structural changes and operational events go in the same log.
+As of 2026-04-15, CenterOS uses a single `LOG.md` per wiki at the wiki root, not a separate `wiki/log.md`. Both structural changes and operational events go in the same log.
 
 See `workflows/create-wiki/CONTEXT.md` for the full procedure.

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Container for all runnable workflows in [OS_NAME]. A workflow is a self-contained procedure with documented inputs, outputs, dependencies, steps, and logs.
+Container for all runnable workflows in CenterOS. A workflow is a self-contained procedure with documented inputs, outputs, dependencies, steps, and logs.
 
 ## Contents
 

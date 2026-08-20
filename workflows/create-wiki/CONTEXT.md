@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Scaffolds a new wiki inside `wikis/<wiki-name>/` following the [OS_NAME] wiki pattern based on Andrej Karpathy's LLM Wiki. Produces a ready-to-use directory with an immutable `raw/` folder for sources and a maintained `wiki/` folder for pages.
+Scaffolds a new wiki inside `wikis/<wiki-name>/` following the CenterOS wiki pattern based on Andrej Karpathy's LLM Wiki. Produces a ready-to-use directory with an immutable `raw/` folder for sources and a maintained `wiki/` folder for pages.
 
 ## Contents
 

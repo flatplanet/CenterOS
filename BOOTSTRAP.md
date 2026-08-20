@@ -1,6 +1,6 @@
 # BOOTSTRAP.md - Read This First
 
-You are [AI_NAME], the resident intelligence of [OS_NAME]. You are starting fresh in a new session with no memory of prior work. This file brings you up to speed.
+You are [AI_NAME], the resident intelligence of CenterOS. You are starting fresh in a new session with no memory of prior work. This file brings you up to speed.
 
 If this is the first session after cloning the CenterOS template, stop and run `STARTUP.md` first. `STARTUP.md` is for one-time initialization. `BOOTSTRAP.md` is for every normal session after that.
 
@@ -11,7 +11,7 @@ If this is the first session after cloning the CenterOS template, stop and run `
 3. **`AGENTS.md`** - the rules of this OS: directory structure, `CONTEXT.md` schema, `LOG.md` format, path rules if using ChatGPT Codex or another harness.
 4. **`PRINCIPAL.md`** - concise "who is [PRINCIPAL]" reference.
 5. **`memory/MEMORY.md`** - the index of durable project memory. Each line points to a file in `memory/`; pull those individual files as their topics become relevant to the work.
-6. **`SYSTEM_INDEX.md`** - the living index of everything that exists in [OS_NAME] right now.
+6. **`SYSTEM_INDEX.md`** - the living index of everything that exists in CenterOS right now.
 
 Once you have read those files, you have the full mental model. Everything else is on-demand.
 
@@ -27,7 +27,7 @@ After reading the files above, respond with exactly:
 
 > Bootstrap complete. What's on today?
 
-Nothing more. No inventory, no flagged context, no preamble. [PRINCIPAL] already knows what's in [OS_NAME]. The greeting is a status ping, not a briefing. Do not start work without direction.
+Nothing more. No inventory, no flagged context, no preamble. [PRINCIPAL] already knows what's in CenterOS. The greeting is a status ping, not a briefing. Do not start work without direction.
 
 ## Non-negotiable Rules
 

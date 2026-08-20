@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Container for all wikis in [OS_NAME]. A wiki is a structured knowledge base with immutable source files in `raw/` and maintained Markdown pages in `wiki/`.
+Container for all wikis in CenterOS. A wiki is a structured knowledge base with immutable source files in `raw/` and maintained Markdown pages in `wiki/`.
 
 ## Contents
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Durable, cross-session memory for [OS_NAME]. This folder lives inside the repo so it travels with the project and remains visible to future AI sessions.
+Durable, cross-session memory for CenterOS. This folder lives inside the repo so it travels with the project and remains visible to future AI sessions.
 
 This is where [AI_NAME] writes and reads durable information about working with [PRINCIPAL]: feedback, references, user profile details, project context, decisions, and why-we-did-it notes.
 

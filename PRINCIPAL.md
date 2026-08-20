@@ -1,6 +1,6 @@
 # PRINCIPAL.md - [PRINCIPAL]
 
-A concise "who is [PRINCIPAL]" reference for [OS_NAME]. Update when facts change; do not let it drift stale.
+A concise "who is [PRINCIPAL]" reference for CenterOS. Update when facts change; do not let it drift stale.
 
 ## Identity
 
@@ -22,13 +22,13 @@ Fill out during first-run setup if relevant.
 
 Fill out during first-run setup if relevant.
 
-## How [PRINCIPAL] Wants [OS_NAME] To Work
+## How [PRINCIPAL] Wants CenterOS To Work
 
 Fill out during first-run setup. Include communication style, default level of detail, what [AI_NAME] should challenge, what [AI_NAME] should avoid, and any durable collaboration preferences.
 
 ## Related
 
-- `SOUL.md` - [OS_NAME]'s operating principles.
+- `SOUL.md` - CenterOS's operating principles.
 - `memory/` - durable memory for project-specific context that does not belong in this profile.
 
 ## Revision History

@@ -1,6 +1,6 @@
 # Workflow Template
 
-Scaffolding for a new workflow in [OS_NAME].
+Scaffolding for a new workflow in CenterOS.
 
 ## Files In This Template
 
