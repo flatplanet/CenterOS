@@ -42,6 +42,22 @@ Stars help more people find the project and keep it moving. It takes one click.
 
 ## Install
 
+You can install CenterOS by downloading the latest zip file or cloning the repo.
+
+### Option 1: Download the zip
+
+Download the latest release:
+
+[Download CenterOS.zip](https://github.com/flatplanet/CenterOS/releases/latest/download/CenterOS.zip)
+
+Unzip it on your computer, open the folder in your AI coding harness, and tell the AI:
+
+```text
+Read STARTUP.md and follow its instructions.
+```
+
+### Option 2: Clone the repo
+
 Clone this repo to your computer, open it in your AI coding harness, and tell the AI:
 
 ```text
