@@ -177,6 +177,7 @@ Code handles:
 
 - File parsing, reading, writing, moving, and renaming.
 - Text extraction, formatting, and regex work.
+- Data handling in any form: Markdown, logs, JSON, CSV, text files, folders, spreadsheets, APIs, or databases. Use deterministic code for parsing, validation, normalization, import/export, deduplication, indexing, migrations, backups, and other rule-based data operations.
 - API calls, batch operations, and data transforms.
 - Deterministic, repetitive, or rule-based tasks.
 
@@ -189,8 +190,9 @@ AI handles:
 
 Storage hierarchy:
 
-1. Plain Markdown or log files.
+1. Plain Markdown, logs, text files, or folders.
 2. Flat files such as JSON or CSV.
-3. A database only when data volume or query needs actually demand it.
+3. Spreadsheets when tabular editing, formulas, or human review are useful.
+4. A database only when the task requires larger scale, relational queries, concurrent updates, indexing, performance, or long-term structured application state.
 
 Use this protocol as the default mindset, not as a rigid rule for inherently AI-heavy work.
