@@ -195,4 +195,10 @@ Storage hierarchy:
 3. Spreadsheets when tabular editing, formulas, or human review are useful.
 4. A database only when the task requires larger scale, relational queries, concurrent updates, indexing, performance, or long-term structured application state.
 
+### Scope
+
+- Primary target: workflows. When scoping a new workflow, the first question is "what part of this can a script do?"
+- Also applies to skills, apps, wikis, data handling, and anything else built inside [OS_NAME].
+- If possible: do not force 90-10 onto inherently AI-heavy tasks such as pure writing, synthesis, strategy, or judgment. Use it as the default mindset, not a mandate.
+
 Use this protocol as the default mindset, not as a rigid rule for inherently AI-heavy work.
