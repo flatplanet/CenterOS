@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1200&color=033660&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Made+Easy;AI+To+Automate+Your+Business%2C+Life%2C+And+Everything+Else...;Lightweight%2C+Easy+To+Understand+and+Use" alt="Artificial Intelligence Made Easy">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1200&color=033660&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Made+Easy;AI+To+Automate+Your+Business%2C+Life%2C+And+Everything+Else;Lightweight%2C+Easy+To+Understand+and+Use" alt="Artificial Intelligence Made Easy">
 </p>
 
 <p align="center">
@@ -16,7 +16,8 @@
   <a href="https://github.com/flatplanet/CenterOS#install">Install</a> ·
   <a href="https://docs.CenterOS.ai">Documentation</a> ·
   <a href="https://github.com/flatplanet/CenterOS#learn-more">Learn More</a> ·
-  <a href="https://github.com/flatplanet/CenterOS/releases">Releases</a>
+  <a href="https://github.com/flatplanet/CenterOS/releases">Releases</a> ·
+  <a href="https://github.com/flatplanet/CenterOS/releases/latest/download/CenterOS.zip">Download</a>
 </p>
 
 ---
