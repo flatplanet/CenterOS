@@ -16,7 +16,7 @@ Do not ask for secrets, passwords, API keys, private addresses, or anything the 
 
 Replace these identity tokens during first-run setup:
 
-- `[OS_NAME]` - the user's name for this AI operating system.
+- `[OS_NAME]` - the user's name for this AI operating system. If the questionnaire does not collect a custom OS name, use `CenterOS`.
 - `[AI_NAME]` - the AI's chosen or assigned name.
 - `[AI_NICKNAME]` - the AI's short nickname.
 - `[PRINCIPAL]` - the user's name.
@@ -38,7 +38,7 @@ Ask these questions before making any changes. Ask one question at a time and wa
 
 1. What is your name?
 2. What should your AI call you day to day?
-3. Do you want to name your AI? If yes, what name?
+3. Do you want to name your AI? If yes, what name? If not, I’ll use `CenterOS` by default.
 4. What is the main purpose of this operating system? Examples: business ops, personal knowledge base, writing system, household admin, research hub.
 5. How do you want the AI to communicate with you? Examples: direct, warm, terse, detailed, skeptical, creative.
 6. Are there any writing rules the AI should always follow? Examples: no em dashes, no corporate fluff, match my voice.
@@ -50,7 +50,7 @@ Ask these questions before making any changes. Ask one question at a time and wa
 2. Ask the questionnaire above one question at a time. Wait for the user's answer after each question before continuing to the next question. Copy each question exactly, including examples.
 3. Summarize the exact placeholder replacements you intend to make and wait for confirmation.
 4. Replace identity placeholders across Markdown files in this repo, except inside `.obsidian/` if that directory exists.
-5. Populate `SOUL.md` with the AI name, AI nickname, OS name, principal name, principal nickname, purpose, disposition, responsibilities, and production writing rules.
+5. Populate `SOUL.md` with the AI name, AI nickname, OS name (default `CenterOS` unless the user explicitly provided another name), principal name, principal nickname, purpose, disposition, responsibilities, and production writing rules.
 6. Populate `PRINCIPAL.md` with the user's identity, work/life areas, operating preferences, and collaboration style. Leave unknown sections marked clearly as empty rather than guessing.
 7. Update `SYSTEM_INDEX.md` where it describes this specific cloned instance. Leave `README.md` empty unless the user asks to create public GitHub-facing copy.
 8. Search for unresolved identity placeholder tokens in Markdown files and report any that intentionally remain. Ignore double-brace scaffold tokens such as `{{WORKFLOW_NAME}}` and `{{WIKI_NAME}}`.
