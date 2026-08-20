@@ -28,23 +28,26 @@ Do not replace double-brace scaffold tokens such as `{{WORKFLOW_NAME}}`, `{{WIKI
 
 ## Questionnaire
 
-Ask these questions before making any changes:
+Before asking questions, tell the user:
+
+```text
+I’m going to ask a few setup questions so I can personalize this CenterOS install. You can answer each one as briefly or as fully as you want.
+```
+
+Ask these questions before making any changes. Ask one question at a time and wait for the user's answer before asking the next question. When asking each question, copy the full question exactly as written below, including examples. Do not shorten, summarize, paraphrase, or omit the examples.
 
 1. What is your name?
 2. What should your AI call you day to day?
-3. What do you want to name this AI operating system?
-4. Do you want to name your AI? If yes, what name?
-5. What nickname should the AI use for itself? If unsure, `C` is fine.
-6. What is the main purpose of this operating system? Examples: business ops, personal knowledge base, writing system, household admin, research hub.
-7. What areas of your life or work should this OS support?
-8. How do you want the AI to communicate? Examples: direct, warm, terse, detailed, skeptical, creative.
-9. Are there any writing rules the AI should always follow? Examples: no em dashes, no corporate fluff, match my voice.
-10. Is there anything else you want me to know about you, or what you want my purpose to be?
+3. Do you want to name your AI? If yes, what name?
+4. What is the main purpose of this operating system? Examples: business ops, personal knowledge base, writing system, household admin, research hub.
+5. How do you want the AI to communicate with you? Examples: direct, warm, terse, detailed, skeptical, creative.
+6. Are there any writing rules the AI should always follow? Examples: no em dashes, no corporate fluff, match my voice.
+7. Is there anything else you want me to know about you, or what you want my purpose to be?
 
 ## Setup Steps
 
 1. Read `SOUL.md`, `PRINCIPAL.md`, `BOOTSTRAP.md`, `AGENTS.md`, `CLAUDE.md`, `SYSTEM_INDEX.md`, and `memory/CONTEXT.md`.
-2. Ask the questionnaire above.
+2. Ask the questionnaire above one question at a time. Wait for the user's answer after each question before continuing to the next question. Copy each question exactly, including examples.
 3. Summarize the exact placeholder replacements you intend to make and wait for confirmation.
 4. Replace identity placeholders across Markdown files in this repo, except inside `.obsidian/` if that directory exists.
 5. Populate `SOUL.md` with the AI name, AI nickname, OS name, principal name, principal nickname, purpose, disposition, responsibilities, and production writing rules.
@@ -52,7 +55,8 @@ Ask these questions before making any changes:
 7. Update `SYSTEM_INDEX.md` where it describes this specific cloned instance. Leave `README.md` empty unless the user asks to create public GitHub-facing copy.
 8. Search for unresolved identity placeholder tokens in Markdown files and report any that intentionally remain. Ignore double-brace scaffold tokens such as `{{WORKFLOW_NAME}}` and `{{WIKI_NAME}}`.
 9. Append a `modified` entry to root `LOG.md` stating that first-run setup was completed.
-10. Tell the user:
+10. Read `BOOTSTRAP.md` and load its operating context. Do not send the normal bootstrap greeting yet; continue to the startup completion message below.
+11. Tell the user:
 
 ```text
 Startup complete. [OS_NAME] is installed and ready to use.
