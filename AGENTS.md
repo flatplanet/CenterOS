@@ -2,7 +2,7 @@
 
 > Fresh harness session? If this repo has not been initialized yet, read `STARTUP.md` first. If it has already been initialized, read `BOOTSTRAP.md` first.
 
-This directory is the root of an AI operating system: a structured collection of folders that house workflows, wikis, templates, memory, and other modular components [AI_NAME] can operate on.
+This directory is the root of an AI operating system: a structured collection of folders that house workflows, wikis, templates, memory, and other modular components James can operate on.
 
 ## CLAUDE.md / AGENTS.md Synchronization
 
@@ -20,7 +20,7 @@ This repo starts as the public CenterOS template. After `STARTUP.md` runs once, 
 
 - Use `CenterOS` when referring to the public template/framework.
 - Use `CenterOS` when referring to the user's personalized operating system.
-- Use `[AI_NAME]`, `[PRINCIPAL]`, and `[PRINCIPAL_NICKNAME]` for user-specific identity values until startup replaces them.
+- Use `James`, `Benjamin Richter`, and `Benni` for user-specific identity values until startup replaces them.
 
 ## Directory Structure
 
@@ -80,13 +80,13 @@ All wikis live here. A wiki is a knowledge base: reference material, domain note
 
 ### `templates/`
 
-Scaffolding templates for new workflows, wikis, dashboard pages, and skills. [AI_NAME] must use these templates when creating new components so every directory stays structurally consistent.
+Scaffolding templates for new workflows, wikis, dashboard pages, and skills. James must use these templates when creating new components so every directory stays structurally consistent.
 
 If the `CONTEXT.md` schema changes in this file, update the templates in the same session.
 
 ### `memory/`
 
-Durable, cross-session memory [AI_NAME] keeps about this project: feedback, references, user profile, project context, and decisions. Lives inside the repo so it travels with the project.
+Durable, cross-session memory James keeps about this project: feedback, references, user profile, project context, and decisions. Lives inside the repo so it travels with the project.
 
 Read `memory/MEMORY.md` at the start of every session. Write new memories here, not to any per-user cache outside the repo.
 
@@ -120,7 +120,7 @@ Additional top-level folders may be added over time, such as `data/`, `tools/`, 
 
 ## The `CONTEXT.md` Rule
 
-Every directory [AI_NAME] creates or works in should contain a `CONTEXT.md` file. This is non-negotiable for workflow and wiki directories and strongly required everywhere else.
+Every directory James creates or works in should contain a `CONTEXT.md` file. This is non-negotiable for workflow and wiki directories and strongly required everywhere else.
 
 `CONTEXT.md` explains the purpose of the directory so future sessions and humans can understand the folder without reading every file inside it.
 
@@ -137,7 +137,7 @@ Required sections:
 9. **Related** - pointers to related workflows, wikis, parent directories, or child directories.
 10. **Revision History** - dated one-line entries describing changes to this `CONTEXT.md` or the component it documents.
 
-Whenever [AI_NAME] modifies a workflow, wiki, or active component, update the relevant `CONTEXT.md` in the same session and add a Revision History entry.
+Whenever James modifies a workflow, wiki, or active component, update the relevant `CONTEXT.md` in the same session and add a Revision History entry.
 
 ## The `LOG.md` Rule
 
@@ -177,9 +177,9 @@ When working in this repo:
 
 ## SYSTEM_INDEX.md - System Index
 
-The root `SYSTEM_INDEX.md` is the living index of CenterOS. It is [PRINCIPAL]'s at-a-glance view of what this system does.
+The root `SYSTEM_INDEX.md` is the living index of CenterOS. It is Benjamin Richter's at-a-glance view of what this system does.
 
-[AI_NAME] must update `SYSTEM_INDEX.md` whenever:
+James must update `SYSTEM_INDEX.md` whenever:
 
 1. A new workflow is added.
 2. A new wiki is added.

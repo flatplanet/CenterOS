@@ -8,9 +8,9 @@ Scaffolding for a new workflow in CenterOS.
 - `LOG.md` - template for the workflow's append-only journal.
 - Optional dashboard pages should use `../dashboard-page/page.html`.
 
-## How [AI_NAME] Uses This Template
+## How James Uses This Template
 
-When [PRINCIPAL] asks for a new workflow named `<workflow-name>`:
+When Benjamin Richter asks for a new workflow named `<workflow-name>`:
 
 1. Create `workflows/<workflow-name>/`.
 2. Copy `CONTEXT.md` and `LOG.md` from this template into that new directory.

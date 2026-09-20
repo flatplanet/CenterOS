@@ -1,20 +1,19 @@
-# CenterOS Template - System Index
+# Benjamin Richter's CenterOS - System Index
 
-This repo is a reusable starter template for building a personalized AI operating system. After cloning, run `STARTUP.md` once to turn the generic template into CenterOS.
+This is Benjamin Richter's personalized CenterOS instance for personal assistance, knowledge management, and household task management.
 
-Every workflow, wiki, or major component gets a short entry here so [PRINCIPAL] can review the system at a glance.
+Every workflow, wiki, or major component gets a short entry here so Benjamin Richter can review the system at a glance.
 
-**Maintained by:** [AI_NAME]
+**Maintained by:** James
 **Framework:** CenterOS
-**Instance name:** CenterOS
+**Instance name:** Benjamin Richter's CenterOS
 
 ---
 
 ## First-Run Setup
 
-Start here after cloning:
+First-run setup is complete. Future sessions start with:
 
-- `STARTUP.md` - one-time setup. Asks the user a short questionnaire and replaces identity placeholders.
 - `BOOTSTRAP.md` - every-session startup. Use this after first-run setup is complete.
 
 ## Workflows
@@ -53,7 +52,7 @@ One short sentence describing what it covers.
 
 ### Templates
 
-Scaffolding for new workflows and wikis. [AI_NAME] uses these to bootstrap new components.
+Scaffolding for new workflows and wikis. James uses these to bootstrap new components.
 
 **Path:** `templates/`
 **Status:** active
@@ -107,13 +106,13 @@ Root instructions for ChatGPT Codex or compatible harnesses when operating insid
 
 ### SOUL.md
 
-[AI_NAME]'s identity, purpose, disposition, operating principles, and production output rules.
+James's identity, purpose, disposition, operating principles, and production output rules.
 
 **Path:** `SOUL.md`
 
 ### PRINCIPAL.md
 
-Concise profile for [PRINCIPAL]: identity, work/life context, patterns, and collaboration style.
+Concise profile for Benjamin Richter: identity, work/life context, patterns, and collaboration style.
 
 **Path:** `PRINCIPAL.md`
 
@@ -128,3 +127,4 @@ Durable, cross-session memory for CenterOS.
 ## Changelog
 
 - **2026-04-15** - Initialized CenterOS template: created `CLAUDE.md`, `AGENTS.md`, `SOUL.md`, and `README.md`.
+- **2026-09-20** - Completed first-run setup for Benjamin Richter's CenterOS.

@@ -12,7 +12,7 @@ Template for creating workflow dashboard pages that load inside the CenterOS das
 
 ## Usage / Trigger Conditions
 
-Use this template when [PRINCIPAL] asks for a workflow dashboard page, a workflow run dashboard page, or a visual dashboard surface tied to a CenterOS workflow. Prefer `dashboard/create-dashboard-page.py` when Python is available; use this template manually when it is not.
+Use this template when Benjamin Richter asks for a workflow dashboard page, a workflow run dashboard page, or a visual dashboard surface tied to a CenterOS workflow. Prefer `dashboard/create-dashboard-page.py` when Python is available; use this template manually when it is not.
 
 ## Inputs
 

@@ -13,11 +13,11 @@ Container for all runnable workflows in CenterOS. A workflow is a self-contained
 
 ## Usage / Trigger Conditions
 
-Use this directory whenever [PRINCIPAL] asks [AI_NAME] to create, inspect, run, modify, or archive a workflow.
+Use this directory whenever Benjamin Richter asks James to create, inspect, run, modify, or archive a workflow.
 
 ## Inputs
 
-- A workflow request from [PRINCIPAL].
+- A workflow request from Benjamin Richter.
 - Existing workflow templates from `templates/workflow/`.
 - Any task-specific files, parameters, or dependencies documented in the selected workflow.
 

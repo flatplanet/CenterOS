@@ -6,9 +6,9 @@ Scaffolding for a workflow dashboard page in CenterOS.
 
 - `page.html` - full standalone HTML page intended to load inside the `dashboard/index.html` iframe.
 
-## How [AI_NAME] Uses This Template
+## How James Uses This Template
 
-When [PRINCIPAL] asks for a dashboard page for `<workflow-name>`:
+When Benjamin Richter asks for a dashboard page for `<workflow-name>`:
 
 1. Prefer the deterministic helper when Python is available:
    ```bash

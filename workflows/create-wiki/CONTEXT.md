@@ -11,13 +11,13 @@ Scaffolds a new wiki inside `wikis/<wiki-name>/` following the CenterOS wiki pat
 
 ## Usage / Trigger Conditions
 
-Run when [PRINCIPAL] says something like:
+Run when Benjamin Richter says something like:
 
 - "Create a wiki on X"
 - "Build me a wiki for Y"
 - "Start a new wiki about Z"
 
-Before scaffolding, [AI_NAME] confirms two things with [PRINCIPAL]:
+Before scaffolding, James confirms two things with Benjamin Richter:
 
 1. **Wiki name** - short kebab-case directory name, such as `llm`, `tax-law`, or `codemy-ops`.
 2. **Wiki topic** - one sentence describing the subject, used to fill the `{{WIKI_TOPIC}}` placeholder.
@@ -47,7 +47,7 @@ Plus log entries and a `SYSTEM_INDEX.md` update.
 ## Steps
 
 1. Append a `ran-start` entry to this workflow's `LOG.md` with the wiki name.
-2. Confirm inputs with [PRINCIPAL] if not already provided: wiki display name, directory name, and one-sentence topic.
+2. Confirm inputs with Benjamin Richter if not already provided: wiki display name, directory name, and one-sentence topic.
 3. Create the wiki directory at `wikis/<wiki-dir-name>/`.
 4. Copy `templates/wiki/CONTEXT.md` into `wikis/<wiki-dir-name>/CONTEXT.md` and replace `{{WIKI_NAME}}` and `{{WIKI_TOPIC}}`.
 5. Create `wikis/<wiki-dir-name>/LOG.md` with an initial `created` entry.
@@ -71,7 +71,7 @@ Plus log entries and a `SYSTEM_INDEX.md` update.
 - The top-level directory is plural: `wikis/`. Each wiki contains a singular `wiki/` subfolder.
 - Do not touch `raw/` after creation. Source files are immutable.
 - Wikis use one `LOG.md` at the wiki root. Do not scaffold `wiki/log.md`.
-- If the wiki directory already exists, stop and ask [PRINCIPAL] whether to overwrite, append, or pick a different name.
+- If the wiki directory already exists, stop and ask Benjamin Richter whether to overwrite, append, or pick a different name.
 
 ## Related
 

@@ -4,3 +4,5 @@ Append-only journal of system-wide events: new workflows created, new wikis adde
 
 ---
 
+## 2026-09-20T23:02:47+02:00 -- modified -- James
+Completed first-run setup: personalized identity, profiles, system index, and Markdown placeholders for Benjamin Richter's CenterOS.

@@ -1,30 +1,37 @@
-# PRINCIPAL.md - [PRINCIPAL]
+# PRINCIPAL.md - Benjamin Richter
 
-A concise "who is [PRINCIPAL]" reference for CenterOS. Update when facts change; do not let it drift stale.
+A concise "who is Benjamin Richter" reference for CenterOS. Update when facts change; do not let it drift stale.
 
 ## Identity
 
-Fill out during first-run setup.
+**Name:** Benjamin Richter
+**Nickname:** Benni
+**Background:** Programming and technical.
 
 ## Household
 
-Fill out during first-run setup if relevant.
+This system is intended to support household task management. Specific household details: empty.
 
 ## Family
 
-Fill out during first-run setup if relevant.
+Empty.
 
 ## Business / Work
 
-Fill out during first-run setup if relevant.
+Specific business or work context: empty.
 
 ## Daily / Weekly Patterns
 
-Fill out during first-run setup if relevant.
+Empty.
 
-## How [PRINCIPAL] Wants CenterOS To Work
+## How Benjamin Richter Wants CenterOS To Work
 
-Fill out during first-run setup. Include communication style, default level of detail, what [AI_NAME] should challenge, what [AI_NAME] should avoid, and any durable collaboration preferences.
+- **Purpose:** Personal assistant, knowledge base, and household task manager.
+- **Communication:** Direct and concise.
+- **Technical level:** Use technical terms by default. Explain only when asked.
+- **Rules:** No fluff. Ask when anything is unclear. James may say when there is no answer.
+- **Challenge / avoid:** Push back when needed; avoid unnecessary explanation and invented certainty.
+- **Collaboration style:** Empty beyond the preferences above.
 
 ## Related
 
@@ -34,3 +41,4 @@ Fill out during first-run setup. Include communication style, default level of d
 ## Revision History
 
 - **2026-08-18** - Converted from a personal placeholder file into a first-run setup template.
+- **2026-09-20** - Completed first-run profile setup for Benjamin Richter.

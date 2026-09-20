@@ -1,18 +1,18 @@
 # {{WIKI_NAME}} Wiki
 
-A personal knowledge base maintained by [AI_NAME].
+A personal knowledge base maintained by James.
 Based on Andrej Karpathy's LLM Wiki pattern.
 
 ## Purpose
 
 This wiki is a structured, interlinked knowledge base for {{WIKI_TOPIC}}.
-[AI_NAME] maintains the wiki. [PRINCIPAL] curates sources, asks questions, and guides the analysis.
+James maintains the wiki. Benjamin Richter curates sources, asks questions, and guides the analysis.
 
 ## Folder Structure
 
 ```
 raw/           -- source documents, immutable
-wiki/          -- markdown pages maintained by [AI_NAME]
+wiki/          -- markdown pages maintained by James
 wiki/index.md  -- table of contents for the entire wiki
 LOG.md         -- append-only record of all operations at the wiki root
 ```
